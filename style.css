@@ -20,7 +20,7 @@ header {
 
 header .brand {
     color: #fff;
-    font-size: 1.5em;
+    font-size: 2em;
     font-weight: 700;
     text-transform: uppercase;
     text-decoration: none;
@@ -216,6 +216,21 @@ section {
 
     .home .media-icons {
         right: 15px;
+    }
+
+    .home .content h1 {
+        font-size: 3.5em;
+        font-weight: 800;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        line-height: 65px;
+        margin-bottom: 30px;
+    }
+
+    .home .content h1 span {
+        font-size: 1em;
+        font-weight: 500;
+
     }
 
     header .navigation {
