@@ -1,1 +1,3 @@
-# travel_page_responsive_video
+## Travel Page Responsive Design
+
+# HTML + CSS + JavaScript
